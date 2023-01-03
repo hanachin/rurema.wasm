@@ -1,0 +1,6 @@
+[submodule "bitclust"]
+	path = bitclust
+	url = https://github.com/rurema/bitclust
+[submodule "doctree"]
+	path = doctree
+	url = https://github.com/rurema/doctree
